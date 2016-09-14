@@ -10,6 +10,7 @@ $icon-font-path: '~bootstrap-sass/assets/fonts/bootstrap/';
 
 .canvas-element {
   display: inline-block;
+  border: 2px dotted transparent;
 }
 
 .canvas-element-active {
